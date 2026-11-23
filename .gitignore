@@ -1,0 +1,2 @@
+# Database lokal SQLite (dibuat otomatis saat aplikasi dijalankan)
+data/*.db
